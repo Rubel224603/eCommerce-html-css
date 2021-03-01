@@ -1,0 +1,113 @@
+@media screen and (max-width:1280px){
+	#subheader p{
+		margin-left:10px;
+}
+	#subheader a{
+		margin-right:10px;
+}
+	#search{
+		margin-left: 18px;
+}	
+	.search-area{
+		width: 628px;
+}
+	#user-menu {
+		margin-top: 28px;
+}
+	
+	
+	
+	
+}
+@media screen and (max-width:1024px){
+	.search-area{width: 380px;}
+	#search{
+		width:399px;
+	}
+	#user-menu {
+    margin-top: 28px;
+    margin-top: 31px;}
+	
+	
+	
+}
+@media screen and (max-width:768px){
+  #logo {
+	width:153px;
+	margin-top: 19px;
+}
+  #logo #ist {
+	font-size: 33px;
+}
+   #logo #iist {
+	margin-left: 4px;   
+    font-size: 25px;
+}
+   
+ #user-menu {
+	width: 130px;
+    
+}
+   
+   
+ #user-menu li{
+	width: 64px; 
+	font-size:19px;
+	margin-left: -6px;transition: all .5s ease;
+ }
+#user-menu li:hover {
+	font-size: 24px;transition: all .5s ease;
+}
+
+
+
+
+}
+@media screen and (max-width:480px){
+	#logo {
+		width: 34px;
+		margin-top: 21px;
+		height: auto;
+}
+	#logo #ist{
+		font-size: 20px;
+}
+	#logo #iist {
+		 margin-left: 1px;
+		 font-size: 16px;
+}
+	#search {
+		width: 50px;
+}
+	
+	.search-area {
+		width: 164px;
+		margin-left: 56px;
+		height: 38px;
+}
+.search-btn {
+		width: 58px;
+		height: 40px;
+		
+		margin-left: -59px;
+		font-size: 10px;
+}
+
+	#user-menu {
+		width: 130px;
+}
+	#user-menu li {
+		width: 64px;
+		font-size: 16px;
+		margin-left: -8px;
+		transition: all .5s ease;
+}
+	#user-menu li:hover{
+		font-size: 20px;
+		transition: all .5s ease;
+	}
+
+
+
+
+}
